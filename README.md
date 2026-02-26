@@ -35,7 +35,7 @@
 ### Quick install (recommended)
 
 ```bash
-git clone https://github.com/imsinux/vpn-client.git
+git clone https://github.com/imsinux/Linux-Gui-openVPN
 cd vpn-client
 
 # Install dependencies + app
